@@ -20,14 +20,14 @@ U+ 유레카 FE 개발자 면접 대비 CS 스터디입니다.
 
 <table>
   <tr>
-    <td><a href="https://github.com/gawgjiug"><img src="https://avatars.githubusercontent.com/u/99489686?v=4" width="100"></a></td>
+    <td><a href="https://github.com/gwagjiug"><img src="https://avatars.githubusercontent.com/u/99489686?v=4" width="100"></a></td>
     <td><a href="https://github.com/corinthionia"><img src="https://avatars.githubusercontent.com/u/79887293?v=4" width="100"></a></td>
     <td><a href="https://github.com/dyeon-dev"><img src="https://avatars.githubusercontent.com/u/93921784?v=4" width="100"></a></td>
     <td><a href="https://github.com/uiop5809"><img src="https://avatars.githubusercontent.com/u/97819580?v=4" width="100"></a></td>
     <td><a href="https://github.com/unfamiliar-sik-dev"><img src="https://avatars.githubusercontent.com/u/172105103?v=4" width="100"></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/gawgjiug">곽지욱</a></td>
+    <td><a href="https://github.com/gwagjiug">곽지욱</a></td>
     <td><a href="https://github.com/corinthionia">김주현</a></td>
     <td><a href="https://github.com/dyeon-dev">김다연</a></td>
     <td><a href="https://github.com/uiop5809">박예진</a></td>
